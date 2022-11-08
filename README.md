@@ -1,4 +1,4 @@
-##👋 Hi, I’m @domwhitecode
+## Hi, I’m @domwhitecode
 
 - 👀 #I’m interested in ...
 - Artificial Intelligence
