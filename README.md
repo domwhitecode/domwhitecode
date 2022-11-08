@@ -1,23 +1,23 @@
 - 👋 Hi, I’m @domwhitecode
-- 
-- 👀 I’m interested in ...
+
+- 👀 #I’m interested in ...
 - Artificial Intelligence
 - Blockchain Technology
 - Algorithmic Trading
 - Front-End Design
-- 
-- 🌱 I’m currently learning ...
+
+- 🌱 #I’m currently learning ...
 - Concurrent Programming in C++
 - Database Systems SQL and NOSQL
 - Probability
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ #I’m looking to collaborate on ...
 - Blockchain projects
 - Algorithmic trading projects
 - Micro SaaS projects 
 
 
-- 📫 How to reach me ...
+- 📫 #How to reach me ...
 - Email: domwhitemedia@gmail.com
 
 <!---
