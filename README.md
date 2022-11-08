@@ -8,7 +8,7 @@
 
 ### I’m currently learning ...
 - Concurrent Programming in C++
-- Database Systems SQL and NOSQL
+- Database Systems, SQL and NOSQL
 - Probability
 
 ### I’m looking to collaborate on ...
