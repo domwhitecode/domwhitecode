@@ -1,26 +1,13 @@
-## Hi, I’m @domwhitecode
+## Dominick White
 
-### I’m interested in ...
-- Artificial Intelligence
-- Blockchain Technology
-- Algorithmic Trading
-- Front-End Design
+Recent Computer Science graduate from Drexel University 🎓
 
-### I’m currently learning ...
-- Concurrent Programming in C++
-- Database Systems, SQL and NOSQL
-- Probability
+Passionate about building scalable and reliable software, using data for intelligent decision-making, and exploring the intersections of Machine Learning, Computer Vision, and Front End development.
 
-### I’m looking to collaborate on ...
-- Blockchain projects
-- Algorithmic trading projects
-- Micro SaaS projects 
+- Languages:  Python, C, C++, Java, JavaScript
+- Frameworks: React, Vue
+- Interests: Machine Learning, Computer Vision, Front End development, API development
+- Hobbies: Creating digital art with Photoshop, playing piano, music production
 
+Let's connect and collaborate on exciting projects! 🚀
 
-### How to reach me ...
-- Email: domwhitemedia@gmail.com
-
-<!---
-domwhitecode/domwhitecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
