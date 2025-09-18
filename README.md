@@ -1,6 +1,6 @@
 ## Dominick White
 
-Software Engineer at Comcast | BSCS Drexel University 2023
+Software Engineer at Gondor.fi | BSCS Drexel University 2023
 
 Passionate about building scalable and reliable software, using data for intelligent decision-making, blockchain technology and exploring the intersections of Machine Learning, Computer Vision, Art and Music.
 
